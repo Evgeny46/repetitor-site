@@ -1,7 +1,8 @@
 {
   "sourceVersion": 28,
   "sourceCommit": "4d5029712ad63d6c535101ec49627dc5929f7bf3",
-  "mirrorBuild": 2,
+  "mirrorBuild": 3,
   "site": "БазаДом",
-  "publishedBy": "GitHub Pages mirror"
+  "publishedBy": "GitHub Pages mirror",
+  "hotfix": "stable catalog scrollbars"
 }
