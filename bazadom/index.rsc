@@ -1,0 +1,11 @@
+2:I["c9ea08932c28",[],"Children",1]
+3:I["dc4413e488cd",[],"LayoutSegmentProvider",1]
+4:I["c9ea08932c28",[],"Slot",1]
+5:I["0be24b9e2ff8",[],"RedirectBoundary",1]
+:HL["/repetitor-site/bazadom/assets/index-D08t4PYK.css","style"]
+:HL["/repetitor-site/bazadom/fonts/onest-variable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+0:{"__route":"route:/","__interceptionContext":null,"__layoutIds":["layout:/"],"__rootLayout":"/","page:/":"$L1","layout:/":[[[["$","link","css:/repetitor-site/bazadom/assets/index-D08t4PYK.css",{"rel":"stylesheet","precedence":"vite-rsc/importer-resources","href":"/repetitor-site/bazadom/assets/index-D08t4PYK.css","data-rsc-css-href":"/repetitor-site/bazadom/assets/index-D08t4PYK.css"}],"$undefined"],["$","html",null,{"lang":"ru","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","href":"/repetitor-site/bazadom/fonts/onest-variable.woff2","as":"font","type":"font/woff2","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"antialiased","children":["$","$L2",null,{}]}]]}]],null],"route:/":[[["$","meta",null,{"charSet":"utf-8"}],[["$","title","0",{"children":"БазаДом — проектирование и строительство загородных домов"}],["$","meta","1",{"name":"description","content":"Проектируем и строим современные загородные дома в Москве и Московской области — от идеи и участка до согласованного уровня готовности."}],["$","link","2",{"rel":"shortcut icon","href":"/repetitor-site/bazadom/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/repetitor-site/bazadom/favicon.svg"}]],[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]],["$","$L3",null,{"segmentMap":{"children":[]},"children":["$","$L4",null,{"id":"layout:/","parallelSlots":"$undefined","children":["$","$L5",null,{"children":["$","$L3",null,{"segmentMap":{"children":[]},"children":["$","$L4",null,{"id":"page:/"}]}]}]}]}]],"__layoutFlags":{"layout:/":"s"},"__artifactCompatibility":{"schemaVersion":1,"graphVersion":"app-route-graph:4uhn5s1wvoptc","deploymentVersion":"2e64cfdc-936c-40c8-8328-db1fbd0da2a8","appElementsSchemaVersion":1,"rscPayloadSchemaVersion":1,"rootBoundaryId":"/","renderEpoch":null}}
+6:I["6efdf509a785",[],"default",1]
+1:["$","$L6",null,{"params":"$@7","searchParams":"$@8"}]
+7:{}
+8:{}
